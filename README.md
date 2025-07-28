@@ -1,0 +1,1 @@
+# 3.-Design-and-Simulation-of-half-wave-rectifier-controlled-by-a-thyristor
