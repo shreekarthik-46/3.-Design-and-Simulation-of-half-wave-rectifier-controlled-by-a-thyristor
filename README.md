@@ -62,5 +62,16 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+![simulation3](https://github.com/user-attachments/assets/6265593d-6976-4e75-83a4-a547ff5a5e5f)
+
 ## Output
+![output3 1](https://github.com/user-attachments/assets/f4d73ac4-5122-45e0-a7ce-d59d79585b4c)
+
+<img width="1906" height="1053" alt="Screenshot 2025-09-06 111529" src="https://github.com/user-attachments/assets/94d6e88b-5f3b-4c18-b512-812b36a68b7f" />
+
+<img width="1896" height="1028" alt="Screenshot 2025-09-06 111615" src="https://github.com/user-attachments/assets/ce4b076f-2882-420f-af46-3b6030664614" />
+<img width="1905" height="1102" alt="Screenshot 2025-09-06 111451" src="https://github.com/user-attachments/assets/d5a755c5-c1f4-4077-b9db-804940a941a7" />
+
 ## Result
+Thus, the experiment has been simulated and the output has verified using matlab successfully
+
